@@ -14,7 +14,7 @@ O app:
 4. Salva esse relacionamento (localização + paraciclo) em um **backend** próprio
    e exibe os registros salvos em uma tela.
 
-> Repositório do backend: _(adicione aqui o link do seu repo do backend)_
+> Repositório do backend: (https://github.com/lucasquerubim/dados-recife-backend)
 
 ---
 
